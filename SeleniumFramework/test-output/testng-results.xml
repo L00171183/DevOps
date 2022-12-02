@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-02T10:21:46 GMT" name="Suite1" finished-at="2022-12-02T10:21:56 GMT" duration-ms="9402">
+    <groups>
+    </groups>
+    <test started-at="2022-12-02T10:21:46 GMT" name="Test1" finished-at="2022-12-02T10:21:56 GMT" duration-ms="9402">
+      <class name="DevOpsLab.LabClass">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:DevOpsLab.LabClass@543588e6]" started-at="2022-12-02T10:21:46 GMT" name="SetUp" finished-at="2022-12-02T10:21:47 GMT" duration-ms="1361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="Search()[pri:0, instance:DevOpsLab.LabClass@543588e6]" started-at="2022-12-02T10:21:48 GMT" name="Search" finished-at="2022-12-02T10:21:55 GMT" duration-ms="7776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:DevOpsLab.LabClass@543588e6]" started-at="2022-12-02T10:21:55 GMT" name="Close" finished-at="2022-12-02T10:21:56 GMT" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- DevOpsLab.LabClass -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
